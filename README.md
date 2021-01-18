@@ -1,6 +1,4 @@
 # Homepage
-
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Homepage</title>
